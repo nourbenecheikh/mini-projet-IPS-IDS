@@ -28,4 +28,4 @@
 4. **Logs**  
    - `alerts.log` : contient toutes les alertes détectées.  
    - `blocked.log` : contient les actions de blocage et déblocage des IP.  
-- 
+
